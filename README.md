@@ -93,4 +93,4 @@ GitHub: expeditive
 
 Email: artisttejasvaverma@gmail.com
 
-Would you like me to also add screenshots / demo GIF instructions in the README? (That makes judges immediately understand the UI without running it.)
+
