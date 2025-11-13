@@ -10,7 +10,7 @@ CareerPilot is an AI-powered career guidance platform that helps students and pr
 
 🤝 Guidance on courses & resources
 
-Deployed live: https://careerpilot-wni9.onrender.com
+Deployed live: [https://careerpilot-wni9.onrender.com](https://careerpilot-wni9.onrender.com)
 
 ✨ Features
 
